@@ -1,3 +1,9 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/Qiyuan-Sun/learning-cxx
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/Qiyuan-Sun/learning-cxx
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Qiyuan-Sun/learning-cxx
